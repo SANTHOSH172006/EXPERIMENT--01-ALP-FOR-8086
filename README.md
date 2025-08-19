@@ -108,14 +108,12 @@ ret
 org 100h
 mov ax,2345H
 mov bx,1111H
-SUB ax,bx 
+mul ax
 ret
 ```
 
  ## Output  
- 
- 
-
+<img width="1918" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c35a2a0-4b03-49f6-bced-82e657f645dd" />
 
 ## Division alp 
 ```
@@ -181,7 +179,7 @@ ret
 
 ## Result :
  
-
+The execution of ALP on fundemental arithmetic and logical operations executed successfully.
 
 
 
